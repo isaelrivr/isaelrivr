@@ -22,7 +22,7 @@
 
 - 🧑‍💻 Code. Eat. Music. Repeat.
 
--🚀 The only thing that is impossible is what you don’t try.
+- 🚀 The only thing that is impossible is what you don’t try.
 
 
 </p>
