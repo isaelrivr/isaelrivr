@@ -61,20 +61,20 @@
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
 
   <!-- Redes, Tráfico, Seguridad & Virtualización -->
-  <img width="32px" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco Networking" />
-  <img width="32px" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" title="Wireshark" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfSense" title="pfSense Firewall" />
+  <img width="32px" src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" title="Cisco Networking" />
+  <img width="32px" src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" title="Wireshark" />
+  <img width="32px" src="https://cdn.simpleicons.org/pfsense/212121/white" alt="pfSense" title="pfSense Firewall" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare DNS & Security" />
-  <img width="32px" src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg" alt="OpenVPN" title="OpenVPN" />
-  <img width="32px" src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" title="WireGuard VPN" />
+  <img width="32px" src="https://cdn.simpleicons.org/openvpn/EA7E20" alt="OpenVPN" title="OpenVPN" />
+  <img width="32px" src="https://cdn.simpleicons.org/wireguard/88171A" alt="WireGuard" title="WireGuard VPN" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" title="Kali Linux" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" alt="CentOS" title="CentOS" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" title="Rocky Linux" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu Server" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash Scripting" />
-  <img width="32px" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" title="VMware Workstation / ESXi" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox VE" />
+  <img width="32px" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" title="Bash Scripting" />
+  <img width="32px" src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" title="VMware Workstation / ESXi" />
+  <img width="32px" src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" title="Proxmox VE" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="PuTTY" title="PuTTY / SSH" />
 
   <!-- DevOps, CI/CD, Contenedores & Cloud -->
@@ -84,13 +84,13 @@
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" title="GitLab CI/CD" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" />
+  <img width="32px" src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" title="Ansible" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" title="Apache" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" alt="Traefik" title="Traefik Proxy" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" title="Helm" />
+  <img width="32px" src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" title="Helm" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" title="ArgoCD" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
