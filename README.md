@@ -1,9 +1,5 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <h1 align="center">Hi , I'm Isael Rivera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <h3 align="center">student at tecnologico de la laguna.</h3>
+<h3 align="center">student at tecnologico de la laguna.</h3>
 
 <p>
 <img 
@@ -11,10 +7,8 @@
   height="250" 
   width="300" 
   src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"
-  style="margin-top:-80px;"
 />
 </p>
-
 
 - 🌱 Currently leveling up in Web Development and exploring multiple programming languages
 
@@ -24,8 +18,8 @@
 
 - 🚀 The only thing that is impossible is what you don’t try.
 
+<br>
 
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/isael-rivera-ramirez-61a793254/" target="blank"><img align="center"
@@ -42,35 +36,30 @@
       alt="isaelrivram" height="30" width="40" /></a>
 </p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
-<a href="#">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'></a>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<p>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg">
+</p>
 
+<br>
 
-
-
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- JUEGO DE LA VIBORITA (SNAKE) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
