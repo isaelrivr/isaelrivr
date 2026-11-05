@@ -90,7 +90,7 @@
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" alt="Traefik" title="Traefik Proxy" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" title="Helm" />
+  <img width="32px" src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" title="Helm" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" title="ArgoCD" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
@@ -101,54 +101,8 @@
 
 <br>
 
-<h2 align="left">🚀 Proyectos Destacados / Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌿 <a href="https://github.com/isaelrivr/app_plantas">app_plantas</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      </p>
-      <p align="center">Aplicación móvil completa para el cuidado, diagnóstico y gestión de plantas. Incluye autenticación con Firebase, Firestore, pruebas automatizadas y soporte multiplataforma.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚨 <a href="https://github.com/isaelrivr/app_mensajes_auxilio">app_mensajes_auxilio</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Emergency%20Alerts-E53935?style=flat-square" />
-      </p>
-      <p align="center">Aplicación nativa en Kotlin para respuesta ante emergencias. Envía alertas con botón de auxilio, geolocalización en tiempo real e información médica crítica vía SMS y correo electrónico.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔤 <a href="https://github.com/isaelrivr/AppInglesExpresionesRegulares">AppInglesExpresionesRegulares</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Regex-F58025?style=flat-square" />
-      </p>
-      <p align="center">Juego interactivo para el aprendizaje de idioma inglés utilizando patrones y validación con expresiones regulares en un entorno móvil React Native.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 <a href="https://github.com/manu19VT/proyAsilo">proyAsilo</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full%20Stack-02569B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Colaborativo-24292E?style=flat-square&logo=github&logoColor=white" />
-      </p>
-      <p align="center">Sistema integral para la administración y gestión de asilos, desarrollado de forma colaborativa con control de residentes, inventarios y expedientes médicos.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- JUEGO DE LA VIBORITA (SNAKE) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
