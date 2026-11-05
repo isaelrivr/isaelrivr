@@ -113,21 +113,17 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
 
 ---
 
-### 📊 GitHub Stats & Actividad
+### 🎧 Now Playing & Coding Soundtrack
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isaelrivr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelrivr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/isaelrivr/isaelrivr/main/spotify.svg" alt="Spotify Player" width="460" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaelrivr&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+<br>
 
----
-
-### 🐍 Contribution Graph
-
+<!-- JUEGO DE LA VIBORITA (SNAKE) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
