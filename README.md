@@ -1,15 +1,12 @@
 <div align="center">
 
   <!-- Header Banner & Typing Animation -->
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-    ¡Hola! Soy Isael Rivera
-  </h1>
+  <h1>¡Hola! Soy Isael Rivera</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Mobile+Developer;Estudiante+%40+Tecnol%C3%B3gico+de+la+Laguna;React+Native+%7C+Kotlin+%7C+TypeScript;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
   <p>
-    🚀 <em>"The only thing that is impossible is what you don’t try."</em>
+    <em>"The only thing that is impossible is what you don’t try."</em>
   </p>
 
   <!-- Social Badges -->
@@ -32,7 +29,7 @@
 
 ---
 
-### ⚡ Sobre mí / About Me
+### Sobre mí / About Me
 
 ```yaml
 nombre: Isael Rivera Ramirez
@@ -44,11 +41,11 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Herramientas
 
 <div align="left">
 
-#### 📱 Desarrollo Móvil
+#### Desarrollo Móvil
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
@@ -58,7 +55,7 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-#### 🌐 Frontend & Web
+#### Frontend & Web
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -68,7 +65,7 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Backend, Lenguajes & Bases de Datos
+#### Backend, Lenguajes & Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -81,7 +78,7 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-#### ☁️ DevOps, Contenedores & Cloud
+#### DevOps, Contenedores & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -95,7 +92,7 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-#### 🛡️ Linux, Redes & Seguridad
+#### Linux, Redes & Seguridad
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -113,7 +110,7 @@ actualmente_aprendiendo: Arquitecturas escalables, Cloud Native & Microservicios
 
 ---
 
-### 🎧 Now Playing & Coding Soundtrack
+### Now Playing & Coding Soundtrack
 
 <div align="center">
   <a href="https://open.spotify.com" target="_blank">
